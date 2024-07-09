@@ -1,3 +1,6 @@
+
+import java.util.Arrays;
+
 class Solution {
     public static int solve(int n, int k, int[] stalls) {
         Arrays.sort(stalls);

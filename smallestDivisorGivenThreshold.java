@@ -1,3 +1,6 @@
+
+import java.util.Arrays;
+
 class Solution {
     public int smallestDivisor(int[] nums, int threshold) {
         int n = nums.length;
